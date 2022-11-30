@@ -3,7 +3,7 @@ import 'package:scooby_app/src/pages/home_page.dart';
 import 'package:scooby_app/src/pages/pelicula_detalle.dart';
 import 'package:scooby_app/src/pages/actor_detalle.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(MyApp( ));
 
 class MyApp extends StatelessWidget {
   @override
